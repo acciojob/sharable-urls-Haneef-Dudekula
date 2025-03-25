@@ -1,4 +1,4 @@
-function updateString() {
+document.getElementById("button").onclick=() =>{
 	let name=document.getElementById("name").value;
 	let year=document.getElementById("year").value;
 	let h3=document.getElementById("url");
